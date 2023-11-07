@@ -1,2 +1,1 @@
-# Zomato-Clone
-This is practice project
+# acciojob-zomato-clone
